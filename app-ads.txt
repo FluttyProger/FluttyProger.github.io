@@ -241,16 +241,6 @@ spotx.tv, 99441, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 99441, RESELLER, 7842df1d2fe2db34
 #Unity
 #You use your own account in Unity. Reach out to your Unity AM
-unity3d.com, 1004715, RESELLER, 96cabb5fbdde37a7
-telaria.com, rwd19-1004715, RESELLER, 1a4e959a1b50034a
-tremorhub.com, rwd19-1004715, RESELLER, 1a4e959a1b50034a
-loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
-adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
-pokkt.com, 6246, RESELLER, c45702d9311e25fd
-google.com, pub-3259034378577333, RESELLER
-google.com, pub-1668617029356272, RESELLER
-google.com, pub-7955322303263231, RESELLER
-google.com, pub-8987504289926345, RESELLER
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
 adcolony.com, 801e49d1be83b5f9, RESELLER, 1ad675c9de6b5176
 adelement.com, 30167, RESELLER
